@@ -1,0 +1,15 @@
+langchain-community
+langchain-core
+langgraph
+langchain
+langchain-openai
+openai
+python-dotenv
+streamlit
+fastapi 
+uvicorn
+langgraph-checkpoint-sqlite
+langchain-nvidia-ai-endpoints
+faiss-cpu 
+pypdf
+langchain-text-splitters
